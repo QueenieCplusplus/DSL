@@ -13,4 +13,4 @@ DSL increases network connectivity options for fixed remote access (or so called
 
 # How it works
 
-It uses twisted-pair tele lines to transport data thru bandwidth. Just using existing infra provided by tele company within PPP to Public Network.
+It uses twisted-pair tele lines to transport data thru bandwidth. Just using existing infra provided by tele company within PPP to access Public Network.
