@@ -21,6 +21,8 @@ It provides "always on" service, and charge in monthly fee.
 
 # ADSL
 
-It is as known as "Asymmetric DSL", with different download/upload speed.
+上下行速度的差別
+
+It is as known as "Asymmetric DSL", with different download/upload speed. Ususally Downstream is faster than Upstream.
 
 
