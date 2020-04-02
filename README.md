@@ -18,3 +18,9 @@ It uses twisted-pair tele lines to transport data thru bandwidth. Just using exi
 # How Much it charges
 
 It provides "always on" service, and charge in monthly fee.
+
+# ADSL
+
+It is as known as "Asymmetric DSL", with different download/upload speed.
+
+
